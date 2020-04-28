@@ -3,3 +3,4 @@
 #what if I add this line before staging?
 #what if I now add this line after staging? git reset simply moves file off staging area. Doesn't revert changes.
 #what if I add this line before staging? git restore removes all changes and returns to last commit.
+#I can do whatever I want before staging the file.
